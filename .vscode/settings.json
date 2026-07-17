@@ -6,6 +6,7 @@
     },
     "tailwindCSS.lint.suggestCanonicalClasses": "ignore",
     "css.lint.unknownAtRules": "ignore",
+    "tailwindCSS.lint.cssConflict": "ignore",
     "workbench.colorCustomizations": {
         "activityBar.activeBackground": "#3399ff",
         "activityBar.background": "#3399ff",
