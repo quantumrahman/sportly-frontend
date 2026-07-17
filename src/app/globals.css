@@ -55,3 +55,9 @@
         color: white;
     }
 }
+
+@layer components {
+    .logo {
+        @apply text-primary text-xl leading-7 font-bold tracking-tight uppercase;
+    }
+}
